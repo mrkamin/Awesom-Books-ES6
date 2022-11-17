@@ -1,6 +1,6 @@
 import userId from './modules/user-id.js';
 import newLoad from './modules/loader.js';
-import {
+import { 
   newNewBtn, newContactBtn, newListBtn, newForm, newListSection, newAddSection, newContactSection, newSectionOne, newTime,
 } from './modules/elements.js';
 import {
