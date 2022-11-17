@@ -301,7 +301,7 @@ input {
 /* Footer */
 
 footer {
-  background-color: var(--C-Ligth);
+  background-color: var(--C-BASIC-LIGHT);
   width: 100%;
   text-align: center;
   padding: 5px 0;
